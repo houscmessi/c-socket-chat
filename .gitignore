@@ -1,0 +1,5 @@
+# build
+server
+client
+*.o
+.DS_Store
